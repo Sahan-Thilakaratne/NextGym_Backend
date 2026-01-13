@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Application/Application.csproj" />
+  <Project Path="Contracts/Contracts.csproj" Id="9a0191dd-153a-455e-83ef-f33f96bb47ca" />
+  <Project Path="Domain/Domain.csproj" />
+  <Project Path="Infrastructure/Infrastructure.csproj" />
+  <Project Path="NextGym/NextGym.Api.csproj" />
+</Solution>
