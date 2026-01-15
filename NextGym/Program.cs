@@ -1,7 +1,10 @@
+using Application.Members;
+using Infrastructure;
+using Infrastructure.Members;
 using Microsoft.EntityFrameworkCore;
-using NextGym.Application.Members;
-using NextGym.Infrastructure;
-using NextGym.Infrastructure.Members;
+using Application.Members;
+using Infrastructure;
+using Infrastructure.Members;
 
 var builder = WebApplication.CreateBuilder(args);
 
