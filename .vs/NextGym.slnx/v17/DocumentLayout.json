@@ -1,0 +1,496 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Sysconex\\Gym\\NextGym_Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|d:\\sysconex\\gym\\nextgym_backend\\application\\billing\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\billing\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2E27B8-5948-0AE2-141B-642DA01A751B}|NextGym\\NextGym.Api.csproj|d:\\sysconex\\gym\\nextgym_backend\\nextgym\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2E27B8-5948-0AE2-141B-642DA01A751B}|NextGym\\NextGym.Api.csproj|solutionrelative:nextgym\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2E27B8-5948-0AE2-141B-642DA01A751B}|NextGym\\NextGym.Api.csproj|d:\\sysconex\\gym\\nextgym_backend\\nextgym\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2E27B8-5948-0AE2-141B-642DA01A751B}|NextGym\\NextGym.Api.csproj|solutionrelative:nextgym\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2E27B8-5948-0AE2-141B-642DA01A751B}|NextGym\\NextGym.Api.csproj|d:\\sysconex\\gym\\nextgym_backend\\nextgym\\controllers\\subscriptionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2E27B8-5948-0AE2-141B-642DA01A751B}|NextGym\\NextGym.Api.csproj|solutionrelative:nextgym\\controllers\\subscriptionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2E27B8-5948-0AE2-141B-642DA01A751B}|NextGym\\NextGym.Api.csproj|d:\\sysconex\\gym\\nextgym_backend\\nextgym\\controllers\\packagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2E27B8-5948-0AE2-141B-642DA01A751B}|NextGym\\NextGym.Api.csproj|solutionrelative:nextgym\\controllers\\packagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2E27B8-5948-0AE2-141B-642DA01A751B}|NextGym\\NextGym.Api.csproj|d:\\sysconex\\gym\\nextgym_backend\\nextgym\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2E27B8-5948-0AE2-141B-642DA01A751B}|NextGym\\NextGym.Api.csproj|solutionrelative:nextgym\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|d:\\sysconex\\gym\\nextgym_backend\\infrastructure\\nextgymdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\nextgymdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|d:\\sysconex\\gym\\nextgym_backend\\application\\billing\\subscriptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\billing\\subscriptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|d:\\sysconex\\gym\\nextgym_backend\\application\\billing\\packageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\billing\\packageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|d:\\sysconex\\gym\\nextgym_backend\\application\\billing\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\billing\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|d:\\sysconex\\gym\\nextgym_backend\\application\\billing\\isubscriptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\billing\\isubscriptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|d:\\sysconex\\gym\\nextgym_backend\\application\\billing\\ipackageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\billing\\ipackageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|d:\\sysconex\\gym\\nextgym_backend\\infrastructure\\billing\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\billing\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|d:\\sysconex\\gym\\nextgym_backend\\infrastructure\\billing\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\billing\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|d:\\sysconex\\gym\\nextgym_backend\\infrastructure\\billing\\subscriptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\billing\\subscriptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|d:\\sysconex\\gym\\nextgym_backend\\infrastructure\\billing\\isubscriptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\billing\\isubscriptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|d:\\sysconex\\gym\\nextgym_backend\\infrastructure\\billing\\packagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\billing\\packagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|d:\\sysconex\\gym\\nextgym_backend\\infrastructure\\billing\\ipackagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\billing\\ipackagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0191DD-153A-455E-83EF-F33F96BB47CA}|Contracts\\Contracts.csproj|d:\\sysconex\\gym\\nextgym_backend\\contracts\\billing\\subscriptiondtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0191DD-153A-455E-83EF-F33F96BB47CA}|Contracts\\Contracts.csproj|solutionrelative:contracts\\billing\\subscriptiondtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0191DD-153A-455E-83EF-F33F96BB47CA}|Contracts\\Contracts.csproj|d:\\sysconex\\gym\\nextgym_backend\\contracts\\billing\\paymentdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0191DD-153A-455E-83EF-F33F96BB47CA}|Contracts\\Contracts.csproj|solutionrelative:contracts\\billing\\paymentdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0191DD-153A-455E-83EF-F33F96BB47CA}|Contracts\\Contracts.csproj|d:\\sysconex\\gym\\nextgym_backend\\contracts\\billing\\packagedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0191DD-153A-455E-83EF-F33F96BB47CA}|Contracts\\Contracts.csproj|solutionrelative:contracts\\billing\\packagedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\sysconex\\gym\\nextgym_backend\\domain\\billing\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\billing\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\sysconex\\gym\\nextgym_backend\\domain\\billing\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\billing\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\sysconex\\gym\\nextgym_backend\\domain\\billing\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\billing\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\sysconex\\gym\\nextgym_backend\\domain\\billing\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\billing\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\sysconex\\gym\\nextgym_backend\\domain\\members\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\members\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|d:\\sysconex\\gym\\nextgym_backend\\application\\members\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\members\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|d:\\sysconex\\gym\\nextgym_backend\\application\\members\\getmembersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\members\\getmembersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\NextGym\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "NextGym\\Controllers\\PaymentsController.cs",
+              "ToolTip": "D:\\Sysconex\\Gym\\NextGym_Backend\\NextGym\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "NextGym\\Controllers\\PaymentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T13:48:15.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SubscriptionsController.cs",
+              "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\NextGym\\Controllers\\SubscriptionsController.cs",
+              "RelativeDocumentMoniker": "NextGym\\Controllers\\SubscriptionsController.cs",
+              "ToolTip": "D:\\Sysconex\\Gym\\NextGym_Backend\\NextGym\\Controllers\\SubscriptionsController.cs",
+              "RelativeToolTip": "NextGym\\Controllers\\SubscriptionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T13:47:49.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PackagesController.cs",
+              "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\NextGym\\Controllers\\PackagesController.cs",
+              "RelativeDocumentMoniker": "NextGym\\Controllers\\PackagesController.cs",
+              "ToolTip": "D:\\Sysconex\\Gym\\NextGym_Backend\\NextGym\\Controllers\\PackagesController.cs",
+              "RelativeToolTip": "NextGym\\Controllers\\PackagesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T13:46:49.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\Application\\Billing\\PaymentService.cs",
+              "RelativeDocumentMoniker": "Application\\Billing\\PaymentService.cs",
+              "ToolTip": "D:\\Sysconex\\Gym\\NextGym_Backend\\Application\\Billing\\PaymentService.cs",
+              "RelativeToolTip": "Application\\Billing\\PaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T13:44:02.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SubscriptionService.cs",
+              "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\Application\\Billing\\SubscriptionService.cs",
+              "RelativeDocumentMoniker": "Application\\Billing\\SubscriptionService.cs",
+              "ToolTip": "D:\\Sysconex\\Gym\\NextGym_Backend\\Application\\Billing\\SubscriptionService.cs",
+              "RelativeToolTip": "Application\\Billing\\SubscriptionService.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAYwH0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T13:43:28.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PackageService.cs",
+              "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\Application\\Billing\\PackageService.cs",
+              "RelativeDocumentMoniker": "Application\\Billing\\PackageService.cs",
+              "ToolTip": "D:\\Sysconex\\Gym\\NextGym_Backend\\Application\\Billing\\PackageService.cs",
+              "RelativeToolTip": "Application\\Billing\\PackageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T13:42:54.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\Application\\Billing\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "Application\\Billing\\IPaymentService.cs",
+              "ToolTip": "D:\\Sysconex\\Gym\\NextGym_Backend\\Application\\Billing\\IPaymentService.cs",
+              "RelativeToolTip": "Application\\Billing\\IPaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T13:42:22.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ISubscriptionService.cs",
+              "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\Application\\Billing\\ISubscriptionService.cs",
+              "RelativeDocumentMoniker": "Application\\Billing\\ISubscriptionService.cs",
+              "ToolTip": "D:\\Sysconex\\Gym\\NextGym_Backend\\Application\\Billing\\ISubscriptionService.cs",
+              "RelativeToolTip": "Application\\Billing\\ISubscriptionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T13:42:01.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IPackageService.cs",
+              "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\Application\\Billing\\IPackageService.cs",
+              "RelativeDocumentMoniker": "Application\\Billing\\IPackageService.cs",
+              "ToolTip": "D:\\Sysconex\\Gym\\NextGym_Backend\\Application\\Billing\\IPackageService.cs",
+              "RelativeToolTip": "Application\\Billing\\IPackageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T13:41:21.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PaymentRepository.cs",
+              "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\Infrastructure\\Billing\\PaymentRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Billing\\PaymentRepository.cs",
+              "ToolTip": "D:\\Sysconex\\Gym\\NextGym_Backend\\Infrastructure\\Billing\\PaymentRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Billing\\PaymentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T13:38:20.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IPaymentRepository.cs",
+              "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\Infrastructure\\Billing\\IPaymentRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Billing\\IPaymentRepository.cs",
+              "ToolTip": "D:\\Sysconex\\Gym\\NextGym_Backend\\Infrastructure\\Billing\\IPaymentRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Billing\\IPaymentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T13:37:58.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SubscriptionRepository.cs",
+              "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\Infrastructure\\Billing\\SubscriptionRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Billing\\SubscriptionRepository.cs",
+              "ToolTip": "D:\\Sysconex\\Gym\\NextGym_Backend\\Infrastructure\\Billing\\SubscriptionRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Billing\\SubscriptionRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwB4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T13:32:44.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ISubscriptionRepository.cs",
+              "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\Infrastructure\\Billing\\ISubscriptionRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Billing\\ISubscriptionRepository.cs",
+              "ToolTip": "D:\\Sysconex\\Gym\\NextGym_Backend\\Infrastructure\\Billing\\ISubscriptionRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Billing\\ISubscriptionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T13:32:13.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PackageRepository.cs",
+              "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\Infrastructure\\Billing\\PackageRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Billing\\PackageRepository.cs",
+              "ToolTip": "D:\\Sysconex\\Gym\\NextGym_Backend\\Infrastructure\\Billing\\PackageRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Billing\\PackageRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswBwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T13:31:46.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IPackageRepository.cs",
+              "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\Infrastructure\\Billing\\IPackageRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Billing\\IPackageRepository.cs",
+              "ToolTip": "D:\\Sysconex\\Gym\\NextGym_Backend\\Infrastructure\\Billing\\IPackageRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Billing\\IPackageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T13:30:40.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PaymentDtos.cs",
+              "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\Contracts\\Billing\\PaymentDtos.cs",
+              "RelativeDocumentMoniker": "Contracts\\Billing\\PaymentDtos.cs",
+              "ToolTip": "D:\\Sysconex\\Gym\\NextGym_Backend\\Contracts\\Billing\\PaymentDtos.cs",
+              "RelativeToolTip": "Contracts\\Billing\\PaymentDtos.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T10:43:29.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SubscriptionDtos.cs",
+              "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\Contracts\\Billing\\SubscriptionDtos.cs",
+              "RelativeDocumentMoniker": "Contracts\\Billing\\SubscriptionDtos.cs",
+              "ToolTip": "D:\\Sysconex\\Gym\\NextGym_Backend\\Contracts\\Billing\\SubscriptionDtos.cs",
+              "RelativeToolTip": "Contracts\\Billing\\SubscriptionDtos.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswB8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T10:42:49.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PackageDtos.cs",
+              "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\Contracts\\Billing\\PackageDtos.cs",
+              "RelativeDocumentMoniker": "Contracts\\Billing\\PackageDtos.cs",
+              "ToolTip": "D:\\Sysconex\\Gym\\NextGym_Backend\\Contracts\\Billing\\PackageDtos.cs",
+              "RelativeToolTip": "Contracts\\Billing\\PackageDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T10:42:22.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\Domain\\Billing\\Payment.cs",
+              "RelativeDocumentMoniker": "Domain\\Billing\\Payment.cs",
+              "ToolTip": "D:\\Sysconex\\Gym\\NextGym_Backend\\Domain\\Billing\\Payment.cs",
+              "RelativeToolTip": "Domain\\Billing\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T10:41:30.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Subscription.cs",
+              "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\Domain\\Billing\\Subscription.cs",
+              "RelativeDocumentMoniker": "Domain\\Billing\\Subscription.cs",
+              "ToolTip": "D:\\Sysconex\\Gym\\NextGym_Backend\\Domain\\Billing\\Subscription.cs",
+              "RelativeToolTip": "Domain\\Billing\\Subscription.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T10:40:46.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Package.cs",
+              "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\Domain\\Billing\\Package.cs",
+              "RelativeDocumentMoniker": "Domain\\Billing\\Package.cs",
+              "ToolTip": "D:\\Sysconex\\Gym\\NextGym_Backend\\Domain\\Billing\\Package.cs",
+              "RelativeToolTip": "Domain\\Billing\\Package.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T10:40:08.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\Domain\\Billing\\Enums.cs",
+              "RelativeDocumentMoniker": "Domain\\Billing\\Enums.cs",
+              "ToolTip": "D:\\Sysconex\\Gym\\NextGym_Backend\\Domain\\Billing\\Enums.cs",
+              "RelativeToolTip": "Domain\\Billing\\Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T10:39:39.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MemberService.cs",
+              "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\Application\\Members\\MemberService.cs",
+              "RelativeDocumentMoniker": "Application\\Members\\MemberService.cs",
+              "ToolTip": "D:\\Sysconex\\Gym\\NextGym_Backend\\Application\\Members\\MemberService.cs",
+              "RelativeToolTip": "Application\\Members\\MemberService.cs",
+              "ViewState": "AgIAANwAAAAAAAAAAAAswAgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T08:59:04.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GetMembersQuery.cs",
+              "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\Application\\Members\\GetMembersQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Members\\GetMembersQuery.cs",
+              "ToolTip": "D:\\Sysconex\\Gym\\NextGym_Backend\\Application\\Members\\GetMembersQuery.cs",
+              "RelativeToolTip": "Application\\Members\\GetMembersQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T08:30:36.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Member.cs",
+              "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\Domain\\Members\\Member.cs",
+              "RelativeDocumentMoniker": "Domain\\Members\\Member.cs",
+              "ToolTip": "D:\\Sysconex\\Gym\\NextGym_Backend\\Domain\\Members\\Member.cs",
+              "RelativeToolTip": "Domain\\Members\\Member.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAxwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T08:30:17.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MembersController.cs",
+              "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\NextGym\\Controllers\\MembersController.cs",
+              "RelativeDocumentMoniker": "NextGym\\Controllers\\MembersController.cs",
+              "ToolTip": "D:\\Sysconex\\Gym\\NextGym_Backend\\NextGym\\Controllers\\MembersController.cs",
+              "RelativeToolTip": "NextGym\\Controllers\\MembersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T08:30:06.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NextGymDbContext.cs",
+              "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\Infrastructure\\NextGymDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\NextGymDbContext.cs",
+              "ToolTip": "D:\\Sysconex\\Gym\\NextGym_Backend\\Infrastructure\\NextGymDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\NextGymDbContext.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAAAwAUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T08:29:22.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\NextGym\\Program.cs",
+              "RelativeDocumentMoniker": "NextGym\\Program.cs",
+              "ToolTip": "D:\\Sysconex\\Gym\\NextGym_Backend\\NextGym\\Program.cs",
+              "RelativeToolTip": "NextGym\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T08:28:19.567Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

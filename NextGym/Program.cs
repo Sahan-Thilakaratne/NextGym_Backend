@@ -1,10 +1,12 @@
+using Application.Billing;
+using Application.Members;
 using Application.Members;
 using Infrastructure;
+using Infrastructure;
+using Infrastructure.Billing;
+using Infrastructure.Members;
 using Infrastructure.Members;
 using Microsoft.EntityFrameworkCore;
-using Application.Members;
-using Infrastructure;
-using Infrastructure.Members;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -22,6 +24,15 @@ builder.Services.AddDbContext<NextGymDbContext>(options =>
 // DI for Member module
 builder.Services.AddScoped<IMemberRepository, MemberRepository>();
 builder.Services.AddScoped<IMemberService, MemberService>();
+
+//billing di
+builder.Services.AddScoped<IPackageRepository, PackageRepository>();
+builder.Services.AddScoped<ISubscriptionRepository, SubscriptionRepository>();
+builder.Services.AddScoped<IPaymentRepository, PaymentRepository>();
+
+builder.Services.AddScoped<IPackageService, PackageService>();
+builder.Services.AddScoped<ISubscriptionService, SubscriptionService>();
+builder.Services.AddScoped<IPaymentService, PaymentService>();
 
 var app = builder.Build();
 

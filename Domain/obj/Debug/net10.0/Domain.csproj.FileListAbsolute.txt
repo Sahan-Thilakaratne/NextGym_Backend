@@ -10,3 +10,15 @@ C:\Users\sahanp\Desktop\Gym\NextGym\Domain\obj\Debug\net10.0\Domain.dll
 C:\Users\sahanp\Desktop\Gym\NextGym\Domain\obj\Debug\net10.0\refint\Domain.dll
 C:\Users\sahanp\Desktop\Gym\NextGym\Domain\obj\Debug\net10.0\Domain.pdb
 C:\Users\sahanp\Desktop\Gym\NextGym\Domain\obj\Debug\net10.0\ref\Domain.dll
+D:\Sysconex\Gym\NextGym_Backend\Domain\bin\Debug\net10.0\Domain.deps.json
+D:\Sysconex\Gym\NextGym_Backend\Domain\bin\Debug\net10.0\Domain.dll
+D:\Sysconex\Gym\NextGym_Backend\Domain\bin\Debug\net10.0\Domain.pdb
+D:\Sysconex\Gym\NextGym_Backend\Domain\obj\Debug\net10.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sysconex\Gym\NextGym_Backend\Domain\obj\Debug\net10.0\Domain.AssemblyInfoInputs.cache
+D:\Sysconex\Gym\NextGym_Backend\Domain\obj\Debug\net10.0\Domain.AssemblyInfo.cs
+D:\Sysconex\Gym\NextGym_Backend\Domain\obj\Debug\net10.0\Domain.csproj.CoreCompileInputs.cache
+D:\Sysconex\Gym\NextGym_Backend\Domain\obj\Debug\net10.0\Domain.sourcelink.json
+D:\Sysconex\Gym\NextGym_Backend\Domain\obj\Debug\net10.0\Domain.dll
+D:\Sysconex\Gym\NextGym_Backend\Domain\obj\Debug\net10.0\refint\Domain.dll
+D:\Sysconex\Gym\NextGym_Backend\Domain\obj\Debug\net10.0\Domain.pdb
+D:\Sysconex\Gym\NextGym_Backend\Domain\obj\Debug\net10.0\ref\Domain.dll

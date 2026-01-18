@@ -10,3 +10,15 @@ C:\Users\sahanp\Desktop\Gym\NextGym\Contracts\obj\Debug\net10.0\Contracts.dll
 C:\Users\sahanp\Desktop\Gym\NextGym\Contracts\obj\Debug\net10.0\refint\Contracts.dll
 C:\Users\sahanp\Desktop\Gym\NextGym\Contracts\obj\Debug\net10.0\Contracts.pdb
 C:\Users\sahanp\Desktop\Gym\NextGym\Contracts\obj\Debug\net10.0\ref\Contracts.dll
+D:\Sysconex\Gym\NextGym_Backend\Contracts\bin\Debug\net10.0\Contracts.deps.json
+D:\Sysconex\Gym\NextGym_Backend\Contracts\bin\Debug\net10.0\Contracts.dll
+D:\Sysconex\Gym\NextGym_Backend\Contracts\bin\Debug\net10.0\Contracts.pdb
+D:\Sysconex\Gym\NextGym_Backend\Contracts\obj\Debug\net10.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sysconex\Gym\NextGym_Backend\Contracts\obj\Debug\net10.0\Contracts.AssemblyInfoInputs.cache
+D:\Sysconex\Gym\NextGym_Backend\Contracts\obj\Debug\net10.0\Contracts.AssemblyInfo.cs
+D:\Sysconex\Gym\NextGym_Backend\Contracts\obj\Debug\net10.0\Contracts.csproj.CoreCompileInputs.cache
+D:\Sysconex\Gym\NextGym_Backend\Contracts\obj\Debug\net10.0\Contracts.sourcelink.json
+D:\Sysconex\Gym\NextGym_Backend\Contracts\obj\Debug\net10.0\Contracts.dll
+D:\Sysconex\Gym\NextGym_Backend\Contracts\obj\Debug\net10.0\refint\Contracts.dll
+D:\Sysconex\Gym\NextGym_Backend\Contracts\obj\Debug\net10.0\Contracts.pdb
+D:\Sysconex\Gym\NextGym_Backend\Contracts\obj\Debug\net10.0\ref\Contracts.dll
