@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\Sysconex\\Gym\\NextGym_Backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|d:\\sysconex\\gym\\nextgym_backend\\application\\auth\\memberaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\auth\\memberaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2E27B8-5948-0AE2-141B-642DA01A751B}|NextGym\\NextGym.Api.csproj|d:\\sysconex\\gym\\nextgym_backend\\nextgym\\controllers\\memberaccountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2E27B8-5948-0AE2-141B-642DA01A751B}|NextGym\\NextGym.Api.csproj|solutionrelative:nextgym\\controllers\\memberaccountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|d:\\sysconex\\gym\\nextgym_backend\\application\\billing\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\billing\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -122,11 +130,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "MemberAccountService.cs",
+              "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\Application\\Auth\\MemberAccountService.cs",
+              "RelativeDocumentMoniker": "Application\\Auth\\MemberAccountService.cs",
+              "ToolTip": "D:\\Sysconex\\Gym\\NextGym_Backend\\Application\\Auth\\MemberAccountService.cs",
+              "RelativeToolTip": "Application\\Auth\\MemberAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T14:53:29.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MemberAccountsController.cs",
+              "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\NextGym\\Controllers\\MemberAccountsController.cs",
+              "RelativeDocumentMoniker": "NextGym\\Controllers\\MemberAccountsController.cs",
+              "ToolTip": "D:\\Sysconex\\Gym\\NextGym_Backend\\NextGym\\Controllers\\MemberAccountsController.cs",
+              "RelativeToolTip": "NextGym\\Controllers\\MemberAccountsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T14:53:17.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "PaymentsController.cs",
               "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\NextGym\\Controllers\\PaymentsController.cs",
               "RelativeDocumentMoniker": "NextGym\\Controllers\\PaymentsController.cs",
@@ -139,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "SubscriptionsController.cs",
               "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\NextGym\\Controllers\\SubscriptionsController.cs",
               "RelativeDocumentMoniker": "NextGym\\Controllers\\SubscriptionsController.cs",
@@ -152,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "PackagesController.cs",
               "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\NextGym\\Controllers\\PackagesController.cs",
               "RelativeDocumentMoniker": "NextGym\\Controllers\\PackagesController.cs",
@@ -165,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "PaymentService.cs",
               "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\Application\\Billing\\PaymentService.cs",
               "RelativeDocumentMoniker": "Application\\Billing\\PaymentService.cs",
@@ -178,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "SubscriptionService.cs",
               "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\Application\\Billing\\SubscriptionService.cs",
               "RelativeDocumentMoniker": "Application\\Billing\\SubscriptionService.cs",
@@ -191,7 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "PackageService.cs",
               "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\Application\\Billing\\PackageService.cs",
               "RelativeDocumentMoniker": "Application\\Billing\\PackageService.cs",
@@ -204,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "IPaymentService.cs",
               "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\Application\\Billing\\IPaymentService.cs",
               "RelativeDocumentMoniker": "Application\\Billing\\IPaymentService.cs",
@@ -217,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "ISubscriptionService.cs",
               "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\Application\\Billing\\ISubscriptionService.cs",
               "RelativeDocumentMoniker": "Application\\Billing\\ISubscriptionService.cs",
@@ -230,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "IPackageService.cs",
               "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\Application\\Billing\\IPackageService.cs",
               "RelativeDocumentMoniker": "Application\\Billing\\IPackageService.cs",
@@ -243,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "PaymentRepository.cs",
               "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\Infrastructure\\Billing\\PaymentRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Billing\\PaymentRepository.cs",
@@ -256,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "IPaymentRepository.cs",
               "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\Infrastructure\\Billing\\IPaymentRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Billing\\IPaymentRepository.cs",
@@ -269,7 +303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "SubscriptionRepository.cs",
               "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\Infrastructure\\Billing\\SubscriptionRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Billing\\SubscriptionRepository.cs",
@@ -282,7 +316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "ISubscriptionRepository.cs",
               "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\Infrastructure\\Billing\\ISubscriptionRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Billing\\ISubscriptionRepository.cs",
@@ -295,20 +329,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "PackageRepository.cs",
               "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\Infrastructure\\Billing\\PackageRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Billing\\PackageRepository.cs",
               "ToolTip": "D:\\Sysconex\\Gym\\NextGym_Backend\\Infrastructure\\Billing\\PackageRepository.cs",
               "RelativeToolTip": "Infrastructure\\Billing\\PackageRepository.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAswBwAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA7wBwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-18T13:31:46.32Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "IPackageRepository.cs",
               "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\Infrastructure\\Billing\\IPackageRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Billing\\IPackageRepository.cs",
@@ -321,33 +355,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "PaymentDtos.cs",
               "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\Contracts\\Billing\\PaymentDtos.cs",
               "RelativeDocumentMoniker": "Contracts\\Billing\\PaymentDtos.cs",
               "ToolTip": "D:\\Sysconex\\Gym\\NextGym_Backend\\Contracts\\Billing\\PaymentDtos.cs",
               "RelativeToolTip": "Contracts\\Billing\\PaymentDtos.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBwAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-18T10:43:29.02Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "SubscriptionDtos.cs",
               "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\Contracts\\Billing\\SubscriptionDtos.cs",
               "RelativeDocumentMoniker": "Contracts\\Billing\\SubscriptionDtos.cs",
               "ToolTip": "D:\\Sysconex\\Gym\\NextGym_Backend\\Contracts\\Billing\\SubscriptionDtos.cs",
               "RelativeToolTip": "Contracts\\Billing\\SubscriptionDtos.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAswB8AAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA7wB8AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-18T10:42:49.935Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "PackageDtos.cs",
               "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\Contracts\\Billing\\PackageDtos.cs",
               "RelativeDocumentMoniker": "Contracts\\Billing\\PackageDtos.cs",
@@ -360,7 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "Payment.cs",
               "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\Domain\\Billing\\Payment.cs",
               "RelativeDocumentMoniker": "Domain\\Billing\\Payment.cs",
@@ -373,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "Subscription.cs",
               "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\Domain\\Billing\\Subscription.cs",
               "RelativeDocumentMoniker": "Domain\\Billing\\Subscription.cs",
@@ -386,7 +420,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "Package.cs",
               "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\Domain\\Billing\\Package.cs",
               "RelativeDocumentMoniker": "Domain\\Billing\\Package.cs",
@@ -399,7 +433,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "Enums.cs",
               "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\Domain\\Billing\\Enums.cs",
               "RelativeDocumentMoniker": "Domain\\Billing\\Enums.cs",
@@ -412,7 +446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "MemberService.cs",
               "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\Application\\Members\\MemberService.cs",
               "RelativeDocumentMoniker": "Application\\Members\\MemberService.cs",
@@ -425,7 +459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "GetMembersQuery.cs",
               "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\Application\\Members\\GetMembersQuery.cs",
               "RelativeDocumentMoniker": "Application\\Members\\GetMembersQuery.cs",
@@ -438,7 +472,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "Member.cs",
               "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\Domain\\Members\\Member.cs",
               "RelativeDocumentMoniker": "Domain\\Members\\Member.cs",
@@ -451,7 +485,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "MembersController.cs",
               "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\NextGym\\Controllers\\MembersController.cs",
               "RelativeDocumentMoniker": "NextGym\\Controllers\\MembersController.cs",
@@ -464,7 +498,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "NextGymDbContext.cs",
               "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\Infrastructure\\NextGymDbContext.cs",
               "RelativeDocumentMoniker": "Infrastructure\\NextGymDbContext.cs",
@@ -477,7 +511,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Sysconex\\Gym\\NextGym_Backend\\NextGym\\Program.cs",
               "RelativeDocumentMoniker": "NextGym\\Program.cs",
