@@ -1,8 +1,10 @@
+using Application.Auth;
 using Application.Billing;
 using Application.Members;
 using Application.Members;
 using Infrastructure;
 using Infrastructure;
+using Infrastructure.Auth;
 using Infrastructure.Billing;
 using Infrastructure.Members;
 using Infrastructure.Members;
@@ -33,6 +35,10 @@ builder.Services.AddScoped<IPaymentRepository, PaymentRepository>();
 builder.Services.AddScoped<IPackageService, PackageService>();
 builder.Services.AddScoped<ISubscriptionService, SubscriptionService>();
 builder.Services.AddScoped<IPaymentService, PaymentService>();
+
+builder.Services.AddScoped<IMemberAccountRepository, MemberAccountRepository>();
+builder.Services.AddScoped<IMemberAccountService, MemberAccountService>();
+
 
 var app = builder.Build();
 

@@ -1,4 +1,5 @@
-﻿using Domain.Billing;
+﻿using Domain.Auth;
+using Domain.Billing;
 using Domain.Members;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
@@ -20,6 +21,9 @@ namespace Infrastructure
         public DbSet<Package> Packages => Set<Package>();
         public DbSet<Subscription> Subscriptions => Set<Subscription>();
         public DbSet<Payment> Payments => Set<Payment>();
+
+        public DbSet<MemberAccount> MemberAccounts => Set<MemberAccount>();
+
 
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -256,6 +260,43 @@ namespace Infrastructure
                 e.HasIndex(x => x.Method).HasDatabaseName("idx_payments_method");
                 e.HasIndex(x => x.Status).HasDatabaseName("idx_payments_status");
             });
+
+
+            modelBuilder.Entity<MemberAccount>(e =>
+            {
+                e.ToTable("member_accounts");
+                e.HasKey(x => x.Id);
+
+                e.Property(x => x.Id).HasColumnName("id");
+                e.Property(x => x.MemberId).HasColumnName("member_id");
+
+                e.Property(x => x.Username).HasColumnName("username").HasMaxLength(191);
+                e.Property(x => x.Email).HasColumnName("email").HasMaxLength(191);
+
+                e.Property(x => x.PasswordHash).HasColumnName("password_hash");
+                e.Property(x => x.IsActive).HasColumnName("is_active");
+                e.Property(x => x.LastLoginAt).HasColumnName("last_login_at");
+
+                e.Property(x => x.CreatedAt).HasColumnName("created_at");
+                e.Property(x => x.UpdatedAt).HasColumnName("updated_at");
+
+                // Important: don't let EF try to send values for these
+                e.Property(x => x.CreatedAt).Metadata.SetBeforeSaveBehavior(PropertySaveBehavior.Ignore);
+                e.Property(x => x.CreatedAt).Metadata.SetAfterSaveBehavior(PropertySaveBehavior.Ignore);
+
+                e.Property(x => x.UpdatedAt).Metadata.SetBeforeSaveBehavior(PropertySaveBehavior.Ignore);
+                e.Property(x => x.UpdatedAt).Metadata.SetAfterSaveBehavior(PropertySaveBehavior.Ignore);
+
+                e.HasIndex(x => x.MemberId).IsUnique().HasDatabaseName("uq_member_accounts_member");
+                e.HasIndex(x => x.Username).IsUnique().HasDatabaseName("uq_member_accounts_username");
+                e.HasIndex(x => x.Email).IsUnique().HasDatabaseName("uq_member_accounts_email");
+
+                e.HasOne(x => x.Member)
+                    .WithOne() // member has optional account; we won’t add navigation on Member yet
+                    .HasForeignKey<MemberAccount>(x => x.MemberId)
+                    .OnDelete(DeleteBehavior.Cascade);
+            });
+
         }
     }
 }
