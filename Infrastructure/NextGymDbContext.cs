@@ -1,6 +1,7 @@
 ﻿using Domain.Auth;
 using Domain.Billing;
 using Domain.Members;
+using Domain.Users;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
 using System;
@@ -23,6 +24,9 @@ namespace Infrastructure
         public DbSet<Payment> Payments => Set<Payment>();
 
         public DbSet<MemberAccount> MemberAccounts => Set<MemberAccount>();
+
+        public DbSet<User> Users => Set<User>();
+
 
 
 
@@ -296,6 +300,42 @@ namespace Infrastructure
                     .HasForeignKey<MemberAccount>(x => x.MemberId)
                     .OnDelete(DeleteBehavior.Cascade);
             });
+
+
+            //
+            modelBuilder.Entity<User>(e =>
+            {
+                e.ToTable("users");
+                e.HasKey(x => x.Id);
+
+                e.Property(x => x.Id).HasColumnName("id");
+                e.Property(x => x.Username).HasColumnName("username").HasMaxLength(191).IsRequired();
+                e.Property(x => x.PasswordHash).HasColumnName("password_hash").IsRequired();
+                e.Property(x => x.Name).HasColumnName("name").HasMaxLength(255).IsRequired();
+                e.Property(x => x.Mobile).HasColumnName("mobile").HasMaxLength(50);
+                e.Property(x => x.Email).HasColumnName("email").HasMaxLength(191);
+                e.Property(x => x.IsActive).HasColumnName("is_active");
+
+                e.Property(x => x.Role)
+                    .HasColumnName("role")
+                    .HasConversion(
+                        v => v.ToString(),
+                        v => Enum.Parse<UserRole>(v, true)
+                    );
+
+                e.Property(x => x.CreatedAt).HasColumnName("created_at");
+                e.Property(x => x.UpdatedAt).HasColumnName("updated_at");
+
+                // Important: don't let EF try to send values for these
+                e.Property(x => x.CreatedAt).Metadata.SetBeforeSaveBehavior(PropertySaveBehavior.Ignore);
+                e.Property(x => x.CreatedAt).Metadata.SetAfterSaveBehavior(PropertySaveBehavior.Ignore);
+
+                e.Property(x => x.UpdatedAt).Metadata.SetBeforeSaveBehavior(PropertySaveBehavior.Ignore);
+                e.Property(x => x.UpdatedAt).Metadata.SetAfterSaveBehavior(PropertySaveBehavior.Ignore);
+
+                e.HasIndex(x => x.Username).IsUnique().HasDatabaseName("uq_users_username");
+            });
+
 
         }
     }

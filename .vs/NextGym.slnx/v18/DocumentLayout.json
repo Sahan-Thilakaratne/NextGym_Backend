@@ -3,32 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\sahanp\\desktop\\gym\\nextgym\\application\\auth\\memberaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\auth\\memberaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C2E27B8-5948-0AE2-141B-642DA01A751B}|NextGym\\NextGym.Api.csproj|c:\\users\\sahanp\\desktop\\gym\\nextgym\\nextgym\\controllers\\devseedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2E27B8-5948-0AE2-141B-642DA01A751B}|NextGym\\NextGym.Api.csproj|solutionrelative:nextgym\\controllers\\devseedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2E27B8-5948-0AE2-141B-642DA01A751B}|NextGym\\NextGym.Api.csproj|c:\\users\\sahanp\\desktop\\gym\\nextgym\\nextgym\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2E27B8-5948-0AE2-141B-642DA01A751B}|NextGym\\NextGym.Api.csproj|solutionrelative:nextgym\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\sahanp\\desktop\\gym\\nextgym\\application\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\sahanp\\desktop\\gym\\nextgym\\application\\auth\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\auth\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|c:\\users\\sahanp\\desktop\\gym\\nextgym\\infrastructure\\auth\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\auth\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|c:\\users\\sahanp\\desktop\\gym\\nextgym\\infrastructure\\auth\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\auth\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0191DD-153A-455E-83EF-F33F96BB47CA}|Contracts\\Contracts.csproj|c:\\users\\sahanp\\desktop\\gym\\nextgym\\contracts\\auth\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0191DD-153A-455E-83EF-F33F96BB47CA}|Contracts\\Contracts.csproj|solutionrelative:contracts\\auth\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\sahanp\\desktop\\gym\\nextgym\\domain\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\sahanp\\desktop\\gym\\nextgym\\domain\\auth\\memberaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\auth\\memberaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C2E27B8-5948-0AE2-141B-642DA01A751B}|NextGym\\NextGym.Api.csproj|c:\\users\\sahanp\\desktop\\gym\\nextgym\\nextgym\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C2E27B8-5948-0AE2-141B-642DA01A751B}|NextGym\\NextGym.Api.csproj|solutionrelative:nextgym\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\sahanp\\desktop\\gym\\nextgym\\application\\members\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\members\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C2E27B8-5948-0AE2-141B-642DA01A751B}|NextGym\\NextGym.Api.csproj|c:\\users\\sahanp\\desktop\\gym\\nextgym\\nextgym\\controllers\\memberaccountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C2E27B8-5948-0AE2-141B-642DA01A751B}|NextGym\\NextGym.Api.csproj|solutionrelative:nextgym\\controllers\\memberaccountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C2E27B8-5948-0AE2-141B-642DA01A751B}|NextGym\\NextGym.Api.csproj|c:\\users\\sahanp\\desktop\\gym\\nextgym\\nextgym\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2E27B8-5948-0AE2-141B-642DA01A751B}|NextGym\\NextGym.Api.csproj|solutionrelative:nextgym\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\sahanp\\desktop\\gym\\nextgym\\application\\auth\\imemberaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\auth\\imemberaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A0191DD-153A-455E-83EF-F33F96BB47CA}|Contracts\\Contracts.csproj|c:\\users\\sahanp\\desktop\\gym\\nextgym\\contracts\\members\\memberdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0191DD-153A-455E-83EF-F33F96BB47CA}|Contracts\\Contracts.csproj|solutionrelative:contracts\\members\\memberdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|c:\\users\\sahanp\\desktop\\gym\\nextgym\\infrastructure\\auth\\memberaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\auth\\memberaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\sahanp\\desktop\\gym\\nextgym\\application\\auth\\memberaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\auth\\memberaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|c:\\users\\sahanp\\desktop\\gym\\nextgym\\infrastructure\\auth\\imemberaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\auth\\imemberaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A0191DD-153A-455E-83EF-F33F96BB47CA}|Contracts\\Contracts.csproj|c:\\users\\sahanp\\desktop\\gym\\nextgym\\contracts\\members\\memberrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0191DD-153A-455E-83EF-F33F96BB47CA}|Contracts\\Contracts.csproj|solutionrelative:contracts\\members\\memberrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\sahanp\\desktop\\gym\\nextgym\\application\\auth\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\auth\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\sahanp\\desktop\\gym\\nextgym\\application\\auth\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\auth\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\sahanp\\desktop\\gym\\nextgym\\application\\auth\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\auth\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|c:\\users\\sahanp\\desktop\\gym\\nextgym\\infrastructure\\nextgymdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,8 +79,32 @@
       "RelativeMoniker": "D:0:0:{9A0191DD-153A-455E-83EF-F33F96BB47CA}|Contracts\\Contracts.csproj|solutionrelative:contracts\\auth\\memberauthdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\sahanp\\desktop\\gym\\nextgym\\application\\members\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\members\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\sahanp\\desktop\\gym\\nextgym\\domain\\users\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\users\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2E27B8-5948-0AE2-141B-642DA01A751B}|NextGym\\NextGym.Api.csproj|c:\\users\\sahanp\\desktop\\gym\\nextgym\\nextgym\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C2E27B8-5948-0AE2-141B-642DA01A751B}|NextGym\\NextGym.Api.csproj|solutionrelative:nextgym\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2E27B8-5948-0AE2-141B-642DA01A751B}|NextGym\\NextGym.Api.csproj|c:\\users\\sahanp\\desktop\\gym\\nextgym\\nextgym\\controllers\\memberaccountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2E27B8-5948-0AE2-141B-642DA01A751B}|NextGym\\NextGym.Api.csproj|solutionrelative:nextgym\\controllers\\memberaccountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|c:\\users\\sahanp\\desktop\\gym\\nextgym\\infrastructure\\auth\\memberaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\auth\\memberaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2E27B8-5948-0AE2-141B-642DA01A751B}|NextGym\\NextGym.Api.csproj|c:\\users\\sahanp\\desktop\\gym\\nextgym\\nextgym\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2E27B8-5948-0AE2-141B-642DA01A751B}|NextGym\\NextGym.Api.csproj|solutionrelative:nextgym\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\sahanp\\desktop\\gym\\nextgym\\application\\auth\\imemberaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\auth\\imemberaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|c:\\users\\sahanp\\desktop\\gym\\nextgym\\infrastructure\\auth\\imemberaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\auth\\imemberaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|c:\\users\\sahanp\\desktop\\gym\\nextgym\\infrastructure\\members\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,16 +119,8 @@
       "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\members\\imemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C2E27B8-5948-0AE2-141B-642DA01A751B}|NextGym\\NextGym.Api.csproj|c:\\users\\sahanp\\desktop\\gym\\nextgym\\nextgym\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C2E27B8-5948-0AE2-141B-642DA01A751B}|NextGym\\NextGym.Api.csproj|solutionrelative:nextgym\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4C2E27B8-5948-0AE2-141B-642DA01A751B}|NextGym\\NextGym.Api.csproj|c:\\users\\sahanp\\desktop\\gym\\nextgym\\nextgym\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C2E27B8-5948-0AE2-141B-642DA01A751B}|NextGym\\NextGym.Api.csproj|solutionrelative:nextgym\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C2E27B8-5948-0AE2-141B-642DA01A751B}|NextGym\\NextGym.Api.csproj|c:\\users\\sahanp\\desktop\\gym\\nextgym\\nextgym\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4C2E27B8-5948-0AE2-141B-642DA01A751B}|NextGym\\NextGym.Api.csproj|solutionrelative:nextgym\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\users\\sahanp\\desktop\\gym\\nextgym\\application\\members\\getmembersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -75,24 +131,12 @@
       "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\members\\healthprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\sahanp\\desktop\\gym\\nextgym\\domain\\members\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\members\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\sahanp\\desktop\\gym\\nextgym\\domain\\members\\memberstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\members\\memberstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A0191DD-153A-455E-83EF-F33F96BB47CA}|Contracts\\Contracts.csproj|c:\\users\\sahanp\\desktop\\gym\\nextgym\\contracts\\members\\memberrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A0191DD-153A-455E-83EF-F33F96BB47CA}|Contracts\\Contracts.csproj|solutionrelative:contracts\\members\\memberrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9A0191DD-153A-455E-83EF-F33F96BB47CA}|Contracts\\Contracts.csproj|c:\\users\\sahanp\\desktop\\gym\\nextgym\\contracts\\members\\healthandweightdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A0191DD-153A-455E-83EF-F33F96BB47CA}|Contracts\\Contracts.csproj|solutionrelative:contracts\\members\\healthandweightdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A0191DD-153A-455E-83EF-F33F96BB47CA}|Contracts\\Contracts.csproj|c:\\users\\sahanp\\desktop\\gym\\nextgym\\contracts\\members\\memberdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A0191DD-153A-455E-83EF-F33F96BB47CA}|Contracts\\Contracts.csproj|solutionrelative:contracts\\members\\memberdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A0191DD-153A-455E-83EF-F33F96BB47CA}|Contracts\\Contracts.csproj|c:\\users\\sahanp\\desktop\\gym\\nextgym\\contracts\\members\\pagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -126,104 +170,124 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MemberAccountsController.cs",
-              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\NextGym\\Controllers\\MemberAccountsController.cs",
-              "RelativeDocumentMoniker": "NextGym\\Controllers\\MemberAccountsController.cs",
-              "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\NextGym\\Controllers\\MemberAccountsController.cs",
-              "RelativeToolTip": "NextGym\\Controllers\\MemberAccountsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAFAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "DevSeedController.cs",
+              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\NextGym\\Controllers\\DevSeedController.cs",
+              "RelativeDocumentMoniker": "NextGym\\Controllers\\DevSeedController.cs",
+              "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\NextGym\\Controllers\\DevSeedController.cs",
+              "RelativeToolTip": "NextGym\\Controllers\\DevSeedController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T10:43:49.317Z"
+              "WhenOpened": "2026-01-20T09:10:46.838Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MemberAccountService.cs",
-              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Application\\Auth\\MemberAccountService.cs",
-              "RelativeDocumentMoniker": "Application\\Auth\\MemberAccountService.cs",
-              "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Application\\Auth\\MemberAccountService.cs",
-              "RelativeToolTip": "Application\\Auth\\MemberAccountService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Application\\Auth\\AuthService.cs",
+              "RelativeDocumentMoniker": "Application\\Auth\\AuthService.cs",
+              "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Application\\Auth\\AuthService.cs",
+              "RelativeToolTip": "Application\\Auth\\AuthService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwGQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T10:41:48.839Z",
+              "WhenOpened": "2026-01-20T06:12:25.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Domain\\Users\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Users\\User.cs",
+              "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Domain\\Users\\User.cs",
+              "RelativeToolTip": "Domain\\Users\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T05:51:13.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthDtos.cs",
+              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Contracts\\Auth\\AuthDtos.cs",
+              "RelativeDocumentMoniker": "Contracts\\Auth\\AuthDtos.cs",
+              "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Contracts\\Auth\\AuthDtos.cs",
+              "RelativeToolTip": "Contracts\\Auth\\AuthDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T05:52:03.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Infrastructure\\Auth\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Auth\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Infrastructure\\Auth\\IUserRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Auth\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T05:54:58.912Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "IMemberAccountService.cs",
-              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Application\\Auth\\IMemberAccountService.cs",
-              "RelativeDocumentMoniker": "Application\\Auth\\IMemberAccountService.cs",
-              "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Application\\Auth\\IMemberAccountService.cs",
-              "RelativeToolTip": "Application\\Auth\\IMemberAccountService.cs",
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Infrastructure\\Auth\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Auth\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Infrastructure\\Auth\\UserRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Auth\\UserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T10:41:22.172Z"
+              "WhenOpened": "2026-01-20T05:55:26.697Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MemberAccountRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Infrastructure\\Auth\\MemberAccountRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Auth\\MemberAccountRepository.cs",
-              "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Infrastructure\\Auth\\MemberAccountRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Auth\\MemberAccountRepository.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAmwDQAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Application\\Auth\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Application\\Auth\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Application\\Auth\\IAuthService.cs",
+              "RelativeToolTip": "Application\\Auth\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T10:36:21.524Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\NextGym\\Program.cs",
-              "RelativeDocumentMoniker": "NextGym\\Program.cs",
-              "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\NextGym\\Program.cs",
-              "RelativeToolTip": "NextGym\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAmwCgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T11:20:31.776Z"
+              "WhenOpened": "2026-01-20T06:12:06.807Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\NextGym\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "NextGym\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\NextGym\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "NextGym\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:13:00.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "MemberAccount.cs",
               "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Domain\\Auth\\MemberAccount.cs",
               "RelativeDocumentMoniker": "Domain\\Auth\\MemberAccount.cs",
               "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Domain\\Auth\\MemberAccount.cs",
               "RelativeToolTip": "Domain\\Auth\\MemberAccount.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAcwA4AAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwBQAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T10:33:02.207Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IMemberAccountRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Infrastructure\\Auth\\IMemberAccountRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Auth\\IMemberAccountRepository.cs",
-              "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Infrastructure\\Auth\\IMemberAccountRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Auth\\IMemberAccountRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T10:35:56.119Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MemberAuthDtos.cs",
-              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Contracts\\Auth\\MemberAuthDtos.cs",
-              "RelativeDocumentMoniker": "Contracts\\Auth\\MemberAuthDtos.cs",
-              "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Contracts\\Auth\\MemberAuthDtos.cs",
-              "RelativeToolTip": "Contracts\\Auth\\MemberAuthDtos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T10:33:44.655Z"
+              "WhenOpened": "2026-01-19T10:33:02.207Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -233,169 +297,14 @@
               "RelativeDocumentMoniker": "Application\\Members\\MemberService.cs",
               "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Application\\Members\\MemberService.cs",
               "RelativeToolTip": "Application\\Members\\MemberService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAowE0AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T09:04:14.833Z"
+              "WhenOpened": "2026-01-14T09:04:14.833Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "IMemberRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Infrastructure\\Members\\IMemberRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Members\\IMemberRepository.cs",
-              "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Infrastructure\\Members\\IMemberRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Members\\IMemberRepository.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAApwA0AAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T08:56:24.406Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MemberRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Infrastructure\\Members\\MemberRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Members\\MemberRepository.cs",
-              "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Infrastructure\\Members\\MemberRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Members\\MemberRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T08:57:12.647Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "NextGymDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Infrastructure\\NextGymDbContext.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\NextGymDbContext.cs",
-              "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Infrastructure\\NextGymDbContext.cs",
-              "RelativeToolTip": "Infrastructure\\NextGymDbContext.cs",
-              "ViewState": "AgIAAAMBAAAAAAAAAAAmwBYBAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T11:45:11.852Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IMemberService.cs",
-              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Application\\Members\\IMemberService.cs",
-              "RelativeDocumentMoniker": "Application\\Members\\IMemberService.cs",
-              "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Application\\Members\\IMemberService.cs",
-              "RelativeToolTip": "Application\\Members\\IMemberService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T09:03:39.428Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "MembersController.cs",
-              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\NextGym\\Controllers\\MembersController.cs",
-              "RelativeDocumentMoniker": "NextGym\\Controllers\\MembersController.cs",
-              "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\NextGym\\Controllers\\MembersController.cs",
-              "RelativeToolTip": "NextGym\\Controllers\\MembersController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwCoAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T09:15:26.609Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\NextGym\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "NextGym\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\NextGym\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "NextGym\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T09:13:26.855Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "GetMembersQuery.cs",
-              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Application\\Members\\GetMembersQuery.cs",
-              "RelativeDocumentMoniker": "Application\\Members\\GetMembersQuery.cs",
-              "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Application\\Members\\GetMembersQuery.cs",
-              "RelativeToolTip": "Application\\Members\\GetMembersQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T09:02:52.013Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\NextGym\\appsettings.json",
-              "RelativeDocumentMoniker": "NextGym\\appsettings.json",
-              "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\NextGym\\appsettings.json",
-              "RelativeToolTip": "NextGym\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-13T11:43:26.636Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "MemberRequests.cs",
-              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Contracts\\Members\\MemberRequests.cs",
-              "RelativeDocumentMoniker": "Contracts\\Members\\MemberRequests.cs",
-              "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Contracts\\Members\\MemberRequests.cs",
-              "RelativeToolTip": "Contracts\\Members\\MemberRequests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T08:53:39.082Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "HealthAndWeightDtos.cs",
-              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Contracts\\Members\\HealthAndWeightDtos.cs",
-              "RelativeDocumentMoniker": "Contracts\\Members\\HealthAndWeightDtos.cs",
-              "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Contracts\\Members\\HealthAndWeightDtos.cs",
-              "RelativeToolTip": "Contracts\\Members\\HealthAndWeightDtos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T08:52:51.816Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "MemberStatus.cs",
-              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Domain\\Members\\MemberStatus.cs",
-              "RelativeDocumentMoniker": "Domain\\Members\\MemberStatus.cs",
-              "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Domain\\Members\\MemberStatus.cs",
-              "RelativeToolTip": "Domain\\Members\\MemberStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T06:46:08.646Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Member.cs",
-              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Domain\\Members\\Member.cs",
-              "RelativeDocumentMoniker": "Domain\\Members\\Member.cs",
-              "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Domain\\Members\\Member.cs",
-              "RelativeToolTip": "Domain\\Members\\Member.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowBAAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T06:42:28.206Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "HealthProfile.cs",
-              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Domain\\Members\\HealthProfile.cs",
-              "RelativeDocumentMoniker": "Domain\\Members\\HealthProfile.cs",
-              "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Domain\\Members\\HealthProfile.cs",
-              "RelativeToolTip": "Domain\\Members\\HealthProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T06:43:16.775Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
               "Title": "MemberDtos.cs",
               "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Contracts\\Members\\MemberDtos.cs",
               "RelativeDocumentMoniker": "Contracts\\Members\\MemberDtos.cs",
@@ -403,11 +312,311 @@
               "RelativeToolTip": "Contracts\\Members\\MemberDtos.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwBUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T08:51:43.59Z"
+              "WhenOpened": "2026-01-14T08:51:43.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MemberRequests.cs",
+              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Contracts\\Members\\MemberRequests.cs",
+              "RelativeDocumentMoniker": "Contracts\\Members\\MemberRequests.cs",
+              "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Contracts\\Members\\MemberRequests.cs",
+              "RelativeToolTip": "Contracts\\Members\\MemberRequests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T08:53:39.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MemberAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Application\\Auth\\MemberAccountService.cs",
+              "RelativeDocumentMoniker": "Application\\Auth\\MemberAccountService.cs",
+              "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Application\\Auth\\MemberAccountService.cs",
+              "RelativeToolTip": "Application\\Auth\\MemberAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T10:41:48.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MembersController.cs",
+              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\NextGym\\Controllers\\MembersController.cs",
+              "RelativeDocumentMoniker": "NextGym\\Controllers\\MembersController.cs",
+              "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\NextGym\\Controllers\\MembersController.cs",
+              "RelativeToolTip": "NextGym\\Controllers\\MembersController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T09:15:26.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JwtOptions.cs",
+              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Application\\Auth\\JwtOptions.cs",
+              "RelativeDocumentMoniker": "Application\\Auth\\JwtOptions.cs",
+              "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Application\\Auth\\JwtOptions.cs",
+              "RelativeToolTip": "Application\\Auth\\JwtOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T05:58:30.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Application\\Auth\\ITokenService.cs",
+              "RelativeDocumentMoniker": "Application\\Auth\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Application\\Auth\\ITokenService.cs",
+              "RelativeToolTip": "Application\\Auth\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T05:58:52.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Application\\Auth\\TokenService.cs",
+              "RelativeDocumentMoniker": "Application\\Auth\\TokenService.cs",
+              "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Application\\Auth\\TokenService.cs",
+              "RelativeToolTip": "Application\\Auth\\TokenService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA8AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T05:59:28.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Domain\\Users\\UserRole.cs",
+              "RelativeDocumentMoniker": "Domain\\Users\\UserRole.cs",
+              "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Domain\\Users\\UserRole.cs",
+              "RelativeToolTip": "Domain\\Users\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T05:50:00.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MemberAuthDtos.cs",
+              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Contracts\\Auth\\MemberAuthDtos.cs",
+              "RelativeDocumentMoniker": "Contracts\\Auth\\MemberAuthDtos.cs",
+              "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Contracts\\Auth\\MemberAuthDtos.cs",
+              "RelativeToolTip": "Contracts\\Auth\\MemberAuthDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T10:33:44.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NextGymDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Infrastructure\\NextGymDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\NextGymDbContext.cs",
+              "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Infrastructure\\NextGymDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\NextGymDbContext.cs",
+              "ViewState": "AgIAADYBAAAAAAAAAAAmwEMBAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T11:45:11.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MemberAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Infrastructure\\Auth\\MemberAccountRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Auth\\MemberAccountRepository.cs",
+              "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Infrastructure\\Auth\\MemberAccountRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Auth\\MemberAccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T10:36:21.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\NextGym\\appsettings.json",
+              "RelativeDocumentMoniker": "NextGym\\appsettings.json",
+              "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\NextGym\\appsettings.json",
+              "RelativeToolTip": "NextGym\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-13T11:43:26.636Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\NextGym\\Program.cs",
+              "RelativeDocumentMoniker": "NextGym\\Program.cs",
+              "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\NextGym\\Program.cs",
+              "RelativeToolTip": "NextGym\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T11:20:31.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MemberAccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\NextGym\\Controllers\\MemberAccountsController.cs",
+              "RelativeDocumentMoniker": "NextGym\\Controllers\\MemberAccountsController.cs",
+              "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\NextGym\\Controllers\\MemberAccountsController.cs",
+              "RelativeToolTip": "NextGym\\Controllers\\MemberAccountsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T10:43:49.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IMemberAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Application\\Auth\\IMemberAccountService.cs",
+              "RelativeDocumentMoniker": "Application\\Auth\\IMemberAccountService.cs",
+              "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Application\\Auth\\IMemberAccountService.cs",
+              "RelativeToolTip": "Application\\Auth\\IMemberAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T10:41:22.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IMemberAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Infrastructure\\Auth\\IMemberAccountRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Auth\\IMemberAccountRepository.cs",
+              "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Infrastructure\\Auth\\IMemberAccountRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Auth\\IMemberAccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T10:35:56.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IMemberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Infrastructure\\Members\\IMemberRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Members\\IMemberRepository.cs",
+              "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Infrastructure\\Members\\IMemberRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Members\\IMemberRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAApwA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T08:56:24.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MemberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Infrastructure\\Members\\MemberRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Members\\MemberRepository.cs",
+              "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Infrastructure\\Members\\MemberRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Members\\MemberRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T08:57:12.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IMemberService.cs",
+              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Application\\Members\\IMemberService.cs",
+              "RelativeDocumentMoniker": "Application\\Members\\IMemberService.cs",
+              "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Application\\Members\\IMemberService.cs",
+              "RelativeToolTip": "Application\\Members\\IMemberService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T09:03:39.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\NextGym\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "NextGym\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\NextGym\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "NextGym\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T09:13:26.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GetMembersQuery.cs",
+              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Application\\Members\\GetMembersQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Members\\GetMembersQuery.cs",
+              "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Application\\Members\\GetMembersQuery.cs",
+              "RelativeToolTip": "Application\\Members\\GetMembersQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T09:02:52.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "HealthAndWeightDtos.cs",
+              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Contracts\\Members\\HealthAndWeightDtos.cs",
+              "RelativeDocumentMoniker": "Contracts\\Members\\HealthAndWeightDtos.cs",
+              "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Contracts\\Members\\HealthAndWeightDtos.cs",
+              "RelativeToolTip": "Contracts\\Members\\HealthAndWeightDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T08:52:51.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MemberStatus.cs",
+              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Domain\\Members\\MemberStatus.cs",
+              "RelativeDocumentMoniker": "Domain\\Members\\MemberStatus.cs",
+              "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Domain\\Members\\MemberStatus.cs",
+              "RelativeToolTip": "Domain\\Members\\MemberStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T06:46:08.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HealthProfile.cs",
+              "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Domain\\Members\\HealthProfile.cs",
+              "RelativeDocumentMoniker": "Domain\\Members\\HealthProfile.cs",
+              "ToolTip": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Domain\\Members\\HealthProfile.cs",
+              "RelativeToolTip": "Domain\\Members\\HealthProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T06:43:16.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
               "Title": "PagedResponse.cs",
               "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Contracts\\Members\\PagedResponse.cs",
               "RelativeDocumentMoniker": "Contracts\\Members\\PagedResponse.cs",
@@ -415,11 +624,12 @@
               "RelativeToolTip": "Contracts\\Members\\PagedResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T08:50:50.398Z"
+              "WhenOpened": "2026-01-14T08:50:50.398Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 35,
               "Title": "WeightLog.cs",
               "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Domain\\Members\\WeightLog.cs",
               "RelativeDocumentMoniker": "Domain\\Members\\WeightLog.cs",
@@ -427,11 +637,12 @@
               "RelativeToolTip": "Domain\\Members\\WeightLog.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T06:43:50.413Z"
+              "WhenOpened": "2026-01-14T06:43:50.413Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 36,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Contracts\\Class1.cs",
               "RelativeDocumentMoniker": "Contracts\\Class1.cs",
@@ -439,11 +650,12 @@
               "RelativeToolTip": "Contracts\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T11:40:38.519Z"
+              "WhenOpened": "2026-01-13T11:40:38.519Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 37,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Infrastructure\\Class1.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Class1.cs",
@@ -451,11 +663,12 @@
               "RelativeToolTip": "Infrastructure\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T11:19:47.637Z"
+              "WhenOpened": "2026-01-13T11:19:47.637Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 38,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Application\\Class1.cs",
               "RelativeDocumentMoniker": "Application\\Class1.cs",
@@ -463,11 +676,12 @@
               "RelativeToolTip": "Application\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T11:19:29.823Z"
+              "WhenOpened": "2026-01-13T11:19:29.823Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 39,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\sahanp\\Desktop\\Gym\\NextGym\\Domain\\Class1.cs",
               "RelativeDocumentMoniker": "Domain\\Class1.cs",
@@ -475,7 +689,8 @@
               "RelativeToolTip": "Domain\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T11:17:52.176Z"
+              "WhenOpened": "2026-01-13T11:17:52.176Z",
+              "EditorCaption": ""
             }
           ]
         }
