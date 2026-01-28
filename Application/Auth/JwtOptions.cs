@@ -8,7 +8,7 @@ namespace Application.Auth
     {
         public string Issuer { get; set; } = "NextGym";
         public string Audience { get; set; } = "NextGym";
-        public string Key { get; set; } = "";
+        public string Key { get; set; } = "this is the 30 characters long key";
         public int ExpiresMinutes { get; set; } = 720;
     }
 }

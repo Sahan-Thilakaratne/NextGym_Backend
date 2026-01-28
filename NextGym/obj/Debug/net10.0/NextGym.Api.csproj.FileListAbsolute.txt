@@ -108,3 +108,11 @@ C:\Users\sahanp\Desktop\Gym\NextGym\NextGym\bin\Debug\net10.0\Microsoft.Identity
 C:\Users\sahanp\Desktop\Gym\NextGym\NextGym\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\sahanp\Desktop\Gym\NextGym\NextGym\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\sahanp\Desktop\Gym\NextGym\NextGym\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\Sysconex\Gym\NextGym_Backend\NextGym\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Sysconex\Gym\NextGym_Backend\NextGym\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Sysconex\Gym\NextGym_Backend\NextGym\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Sysconex\Gym\NextGym_Backend\NextGym\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\Sysconex\Gym\NextGym_Backend\NextGym\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+D:\Sysconex\Gym\NextGym_Backend\NextGym\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Sysconex\Gym\NextGym_Backend\NextGym\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\Sysconex\Gym\NextGym_Backend\NextGym\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
